@@ -1,6 +1,7 @@
 <div align="center">
 
 ⚠️ **免责声明**
+</div>
 
 ```
 本扩展旨在帮助用户学习与练习题目，仅供教学、复习或研究使用，请勿在正式考试中使用。
@@ -9,6 +10,7 @@
 本扩展与任何考试平台、教育机构无关，开发者不对因使用本扩展造成的任何后果负责。
 使用本扩展即表示您已阅读并同意上述声明。
 ```
+<div align="center">
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-green.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome)](https://github.com/Gust-feng/Rapid-Learning)
