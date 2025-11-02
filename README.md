@@ -18,7 +18,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gust-feng/Rapid-Learning/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Gust-feng/Rapid-Learning/graphs/commit-activity)
 </div>
+
 # 使用说明
+
 ##  特性
 
 -  **AI 智能答题**：支持多种主流大模型 API（Kimi、DeepSeek、OpenAI 等）
