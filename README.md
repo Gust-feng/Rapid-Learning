@@ -4,6 +4,16 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gust-feng/Rapid-Learning/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Gust-feng/Rapid-Learning/graphs/commit-activity)
 
+## ⚠️ 免责声明
+
+```
+本扩展旨在帮助用户学习与练习题目，仅供教学、复习或研究使用，请勿在正式考试中使用。
+本扩展不会收集或上传任何个人敏感数据。
+本扩展将使用本地存储保存答题历史，不会上传到服务器。
+本扩展与任何考试平台、教育机构无关，开发者不对因使用本扩展造成的任何后果负责。
+使用本扩展即表示您已阅读并同意上述声明。
+```
+
 # 使用说明
 ##  特性
 
@@ -23,7 +33,7 @@
    ```bash
    git clone https://github.com/Gust-feng/Rapid-Learning.git
    ```
-   或直接下载 [ZIP 压缩包](https://github.com/Gust-feng/Rapid-Learning/releases/download)
+   或直接下载 [ZIP 压缩包](https://github.com/Gust-feng/Rapid-Learning/releases)
 
 2. **打开扩展管理页面**
    - 在 Chrome/Edge 浏览器地址栏输入 `chrome://extensions/`（Chrome）或 `edge://extensions/`（Edge）
@@ -41,16 +51,6 @@
    - 建议将扩展固定到工具栏以便快速访问
 
 ---
-
-## ⚠️ 免责声明
-
-```
-本扩展旨在帮助用户学习与练习题目，仅供教学、复习或研究使用，请勿在正式考试中使用。
-本扩展不会收集或上传任何个人敏感数据。
-本扩展将使用本地存储保存答题历史，不会上传到服务器。
-本扩展与任何考试平台、教育机构无关，开发者不对因使用本扩展造成的任何后果负责。
-使用本扩展即表示您已阅读并同意上述声明。
-```
 
 ---
 
