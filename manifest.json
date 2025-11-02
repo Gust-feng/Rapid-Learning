@@ -1,0 +1,60 @@
+{
+  "manifest_version": 3,
+  "name": "热爱学习",
+  "description": "实现自动答题功能",
+  "version": "5.2.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*.chaoxing.com/*",
+    "https://api.moonshot.cn/*",
+    "https://api.siliconflow.cn/*",
+    "https://api.minimax.chat/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.chaoxin.com/*",
+        "*://*.chaoxing.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "options_page": "options.html",
+  "icons": {
+    "16": "icons/weixin-1600.png",
+    "32": "icons/weixin-1600.png",
+    "48": "icons/weixin-1600.png",
+    "128": "icons/weixin-1600.png"
+  },
+  "action": {
+    "default_title": "自动答题助手",
+    "default_icon": {
+      "16": "icons/weixin-1600.png",
+      "32": "icons/weixin-1600.png",
+      "48": "icons/weixin-1600.png",
+      "128": "icons/weixin-1600.png"
+    }
+  },
+  "commands": {
+    "toggle-panel": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+L",
+        "mac": "Command+Shift+L"
+      },
+      "description": "显示/隐藏控制面板"
+    }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["debug.html", "debug.js", "README.md"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
