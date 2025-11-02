@@ -1,10 +1,6 @@
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-green.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome)](https://github.com/Gust-feng/Rapid-Learning)
-[![Version](https://img.shields.io/badge/version-5.2.0-brightgreen)](https://github.com/Gust-feng/Rapid-Learning/releases)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gust-feng/Rapid-Learning/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Gust-feng/Rapid-Learning/graphs/commit-activity)
+<div align="center">
 
-## ⚠️ 免责声明
+⚠️ **免责声明**
 
 ```
 本扩展旨在帮助用户学习与练习题目，仅供教学、复习或研究使用，请勿在正式考试中使用。
@@ -14,6 +10,12 @@
 使用本扩展即表示您已阅读并同意上述声明。
 ```
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-green.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome)](https://github.com/Gust-feng/Rapid-Learning)
+[![Version](https://img.shields.io/badge/version-5.2.0-brightgreen)](https://github.com/Gust-feng/Rapid-Learning/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gust-feng/Rapid-Learning/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Gust-feng/Rapid-Learning/graphs/commit-activity)
+</div>
 # 使用说明
 ##  特性
 
@@ -50,7 +52,6 @@
    - 扩展图标会出现在浏览器工具栏
    - 建议将扩展固定到工具栏以便快速访问
 
----
 
 ---
 
